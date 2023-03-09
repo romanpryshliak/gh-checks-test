@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   version: 1.0.0
-  title: Rock API
+  title: Rock API!
   termsOfService: 'https://example.com/terms/'
   contact:
     email: contact@example.com
