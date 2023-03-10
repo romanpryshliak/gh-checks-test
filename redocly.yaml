@@ -1,0 +1,6 @@
+features.openapi: 
+  hideDownloadButton: true
+  theme: 
+    typography: 
+      heading1: 
+        color: red
