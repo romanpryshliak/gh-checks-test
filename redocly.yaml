@@ -1,6 +1,6 @@
-apis:
-  gh-checks-test-scissors@1:
-    root: ./folder/scissors.yaml
+# apis:
+#   gh-checks-test-scissors@1:
+#     root: ./folder/scissors.yaml
 features.openapi: 
   hideDownloadButton: true
   theme: 
