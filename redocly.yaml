@@ -1,0 +1,3 @@
+apis:
+  gh-checks-test-scissors@1:
+    root: ./scissors.yaml
