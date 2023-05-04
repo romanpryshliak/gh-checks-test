@@ -76,6 +76,7 @@ paths:
         Some description of the operation. 
         You can use `markdown` here.
       operationId: getUserByName
+      x-beta: true
       parameters:
         - name: username
           in: path
